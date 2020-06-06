@@ -7,14 +7,12 @@
  - To overcome this we have to implement a custom way to cascade save & delete operations.   
  	
 
-Below is the endpoint for testing saveUser
+Below is the endpoint for testing saveUser:
 
-	```
-		http://localhost:8080/test/saveUser
-	```
+```	http://localhost:8080/test/saveUser
+```
 	
-Below is the endpoint for testing deleteUser
+Below is the endpoint for testing deleteUser:
 
-	```
-		http://localhost:8080/test/deleteUser?userName=hari@gmail6d4066c9-f4cc-4973-85fe-689d35b9d206.coms
-	```
+```	http://localhost:8080/test/deleteUser?userName=hari@gmail6d4066c9-f4cc-4973-85fe-689d35b9d206.coms
+```
