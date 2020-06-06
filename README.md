@@ -8,11 +8,13 @@
  	
 
 Below is the endpoint for testing saveUser
+
 	```
 		http://localhost:8080/test/saveUser
 	```
 	
 Below is the endpoint for testing deleteUser
+
 	```
 		http://localhost:8080/test/deleteUser?userName=hari@gmail6d4066c9-f4cc-4973-85fe-689d35b9d206.coms
 	```
